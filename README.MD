@@ -1,10 +1,6 @@
 ## Downloading
 Make sure you have downloaded the dataset from google drive
-* dvscifar10-------------[[AEDAT]](https://drive.google.com/file/d/1J6LualTWc7MC1uapaba5QK_R1DEQQrJe/view?usp=sharing)[[AEDAT4.0]](https://drive.google.com/file/d/12MHMYkwyT_WyWImb942QUfnzVFDEr5WM/view?usp=sharing)
-* IITM-------------------[[AEDAT]](https://drive.google.com/file/d/1XihFhmYw45gV6RMPuYiqqfPgJ8zXzLxi/view?usp=sharing)[[AEDAT4.0]](https://drive.google.com/file/d/15e2TO8v2L1O2JuNNDGFcb3o_JKnoUh-b/view?usp=sharing)
-* UCF11------------------[[AEDAT]](https://drive.google.com/file/d/1_JAS3mcMnwrilLqVJT7fA-54GtmTKpbC/view?usp=sharing)[[AEDAT4.0]](https://drive.google.com/file/d/1zwmKm-IbN-X9vtrgS1dZccj36FuY6oOT/view?usp=sharing)
-* dvsmnist---------------[[AEDAT]](https://drive.google.com/file/d/1gtWyGplCdAmnJm5QKuaJYnWuySsmrpTP/view?usp=sharing)
-* nmnist-----------------[[BIN]](https://drive.google.com/drive/folders/1NFv6POyeTj0YFr5FH2dkqNRay8Rz-ahj?usp=sharing)
+[Download](https://drive.google.com/drive/folders/18uZjMU5_N_V3G-XuS8IVA5NSAHMheTsW?usp=sharing)
 
 # dvscifar10, IITM, UCF11
 ## Environment
