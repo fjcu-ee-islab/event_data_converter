@@ -126,6 +126,11 @@ dataset
 ```
 # nmnist
 ## Convert BIN files to TXT
+
+```
+conda install jupyter
+```
+
 The data should have the following file structure:
 ```
 ├── nmnist
