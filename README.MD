@@ -1,5 +1,5 @@
 ## Downloading
-Make sure you have downloaded the dataset from google drive
+Make sure you have downloaded the dataset from google drive.
 
 [Download](https://drive.google.com/drive/folders/18uZjMU5_N_V3G-XuS8IVA5NSAHMheTsW?usp=sharing)
 
